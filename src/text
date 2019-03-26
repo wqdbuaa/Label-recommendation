@@ -1,0 +1,1 @@
+["#8982 There were discrepancies between usage of \"block chain\" and \"blockchain\", I've changed them to the latter. The reason for this was that Wikipedia when describing this data structure writes \"A blockchain \u2014 _originally block chain_\", so it seemed the more appropriate term.\n Eliminating Inconsistencies in Textual Output"]
