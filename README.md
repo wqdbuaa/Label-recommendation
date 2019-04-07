@@ -19,6 +19,6 @@ Process data, including word segmentation, stem extraction, etc.
 
 # corpus
 
-raw data
+The data from github.
 
 
