@@ -1,13 +1,12 @@
 # Label-recommendation
-Takes Github as data carrier and take automatically recommending integrators and automatically predicting the review result as the study goal. This study includes three aspects which are influencing factors, the recommended and predict method, and performance evaluation.
-This repository includes the dataset and code.
+We propose a method to automatically recommend tags for pull requests in GitHub.
 
 # model
 
-Use BP neural network for label recommendation and check accuracy.
+Use neural network for label recommendation.
 
 
-# scripy
+# crawler
 
 To get the data from github by api.
 
